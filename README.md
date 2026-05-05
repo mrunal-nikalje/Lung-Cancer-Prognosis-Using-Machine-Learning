@@ -65,7 +65,7 @@ From these results, it is clear that although some advanced algorithms like Deci
 
 
 
-###After Optimization:
+#### After Optimization:
 
 Modified Logistic Regression (MLR) achieved improved accuracy compared to standard Logistic Regression
 Threshold tuning significantly enhanced prediction performance
