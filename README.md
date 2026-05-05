@@ -12,6 +12,7 @@ Comparing different classification algorithms
 Identifying the best-performing model (Logistic Regression)
 Improving its performance using a Modified Logistic Regression (MLR) approach with custom threshold tuning
 
+Dataset - https://raw.githubusercontent.com/rohitinu6/Lung_Cancer_Prediction_Using_Machine_Learning/main/Dataset/survey%20lung%20cancer.csv
 
 ## Key Idea of the Project
 
