@@ -24,35 +24,35 @@ Unlike traditional ML projects that use a single model, this project:
 
 ## Final Outcome:
 
-Logistic Regression performed best among all algorithms
-Further improvement was achieved using Modified Logistic Regression (MLR)
-Custom thresholds (0.8 and 0.4) were applied to improve prediction accuracy
+- Logistic Regression performed best among all algorithms
+- Further improvement was achieved using Modified Logistic Regression (MLR)
+- Custom thresholds (0.8 and 0.4) were applied to improve prediction accuracy
 
 
 ## Algorithms Used
 
 The following Machine Learning algorithms were implemented and compared:
 
-Logistic Regression  (Best Performing)
-Decision Tree
-Ada Boost
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
-Naive Bayes 
-Neural Network
-### MLR-Modified Logistic Regression 
+- Logistic Regression  (Best Performing)
+- Decision Tree
+- Ada Boost
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Naive Bayes 
+- Neural Network
+- #### MLR-Modified Logistic Regression 
 
 
 ## Model Optimization using Threshold Tuning (Core Innovation)
 
-The primary contribution of this project is improving the performance of the best model, Logistic Regression.
-In this project, a Modified Logistic Regression (MLR) approach is introduced.
-Custom decision thresholds of 0.8 and 0.4 are applied instead of the default value.
-These thresholds help in better handling borderline prediction cases.
-Improves the balance between sensitivity (recall) and specificity.
-Reduces misclassification errors in predictions.
-Results in an increase in overall model accuracy.
-Demonstrates that threshold tuning is an effective optimization technique without adding model complexity.
+- The primary contribution of this project is improving the performance of the best model, Logistic Regression.
+- In this project, a Modified Logistic Regression (MLR) approach is introduced.
+- Custom decision thresholds of 0.8 and 0.4 are applied instead of the default value.
+- These thresholds help in better handling borderline prediction cases.
+- Improves the balance between sensitivity (recall) and specificity.
+- Reduces misclassification errors in predictions.
+- Results in an increase in overall model accuracy.
+- Demonstrates that threshold tuning is an effective optimization technique without adding model complexity.
 
 
 ## Results 
@@ -67,8 +67,8 @@ From these results, it is clear that although some advanced algorithms like Deci
 
 #### After Optimization:
 
-Modified Logistic Regression (MLR) achieved improved accuracy compared to standard Logistic Regression
-Threshold tuning significantly enhanced prediction performance
+- Modified Logistic Regression (MLR) achieved improved accuracy compared to standard Logistic Regression
+- Threshold tuning significantly enhanced prediction performance
 
 ## Conclusion
 
